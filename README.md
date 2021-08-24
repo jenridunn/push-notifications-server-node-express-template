@@ -2,3 +2,7 @@
 
 
 To use the template download/clone this repository to your computer then execute npm install and you are ready to go. To initiate the server execute inside the src folder: node index.js
+
+
+For more information check out the documentation of web push:
+https://www.npmjs.com/package/web-push
